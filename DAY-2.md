@@ -59,3 +59,10 @@ Here are some common Maven commands:
 - `mvn site`: Generates project documentation and reports.
 - `mvn site-deploy`: Deploys the generated documentation to a remote web server.  
 - `mvn clean`: Executes the clean phase, deleting any previous build outputs. 
+
+
+
+
+Project Repo used in video: https://github.com/jaiswaladi246/springboot-java-poject
+Command to run java application : java -jar target/spring-boot-web.jar
+Youtube video : https://www.youtube.com/watch?v=-KqyFvEJYz0&list=PLAdTNzDIZj_8BerYwx-rUjmVkj6A9vD9_&index=3
