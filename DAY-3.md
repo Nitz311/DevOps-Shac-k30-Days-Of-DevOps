@@ -55,6 +55,11 @@ comment:
 <!-- Valve className="org.apache.catalina.valves.RemoteAddrValve"
   allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" /> -->
 
+Install Java
+sudo apt-get update -y
+sudo apt install openjdk-11-jre -y
+sudo apt-get install maven -y
+
 sudo stopTomcat
 sudo startTomcat
 
